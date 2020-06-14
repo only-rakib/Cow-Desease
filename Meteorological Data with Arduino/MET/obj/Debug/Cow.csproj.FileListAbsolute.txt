@@ -1,0 +1,18 @@
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\bin\Debug\MET.exe.config
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\bin\Debug\MET.exe
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\bin\Debug\MET.pdb
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\obj\Debug\MET.Form1.resources
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\obj\Debug\MET.Properties.Resources.resources
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\obj\Debug\Cow.csproj.GenerateResource.cache
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\obj\Debug\MET.exe
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\obj\Debug\MET.pdb
+C:\Users\Rakib\Downloads\Compressed\C-Sharp-GUI-projects-master\Meteorological Data with Arduino\MET\obj\Debug\Cow.csprojAssemblyReference.cache
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\bin\Debug\MET.exe.config
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\bin\Debug\MET.exe
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\bin\Debug\MET.pdb
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\obj\Debug\Cow.csprojAssemblyReference.cache
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\obj\Debug\MET.Form1.resources
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\obj\Debug\MET.Properties.Resources.resources
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\obj\Debug\Cow.csproj.GenerateResource.cache
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\obj\Debug\MET.exe
+D:\Project\Cow Desease\Meteorological Data with Arduino\MET\obj\Debug\MET.pdb
